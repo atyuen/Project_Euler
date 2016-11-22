@@ -1,4 +1,4 @@
-// Find the smallest positive number that is evenly divisible by all of the numbers from 1 to n.
+// Find the smallest positive number that is evenly divisible by all of the numbers from 1 to n. In this case, n = 20.
 
 var euler5 = function(n) {
     var multiple = 10;
